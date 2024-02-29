@@ -18,13 +18,13 @@ If you're new to containerization or Docker, don't worry! Follow these simple st
 
 2. **Clone the Repository**: Clone this repository to your local machine.
 
-```zsh 
+```sh 
 git clone https://github.com/alluvia-studio/wordpress-local-environment.git
 ```
 
 3. **Spin up the Environment**: Open your terminal and navigate to the cloned repository directory. Then, run the following command:
 
-```zsh
+```sh
 cd wordpress-local-environment
 docker compose up -d
 ```
@@ -33,14 +33,14 @@ docker compose up -d
 
 - For Linux:
 
-```zsh
+```sh
 sudo useradd -G <groupname> <username>
 sudo chmod -R g+rwx ./wordpress/
 ```
 
 - For macOS:
 
-```zsh
+```sh
 sudo dseditgroup -o edit -a <username> -t user <groupname>
 ```
 
@@ -77,7 +77,7 @@ Once you're done with your development work, you can spin down the Docker contai
 
 ### Stop the Containers: In your terminal, navigate to the repository directory and run:
 
-```zsh
+```sh
 docker compose down
 ```
 
