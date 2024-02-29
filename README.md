@@ -69,7 +69,7 @@ php_value max_execution_time 300
 php_value max_input_time 300
 ```
 
-Ta-da! Your local WordPress development environment is now set up and ready for you to start building amazing websites. If you have any questions or encounter any issues, feel free to reach out to the development team for assistance. Happy coding! 🚀
+Ta-da! Your local WordPress development environment is now set up and ready for you to start building amazing websites. If you have any questions or encounter any issues, feel free to reach out to the development team for assistance.
 
 ## Spinning Down and Cleanup
 
