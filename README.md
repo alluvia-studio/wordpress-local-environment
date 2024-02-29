@@ -1,4 +1,4 @@
-# My Docker/WordPress Development Environment 
+# A Containerized WordPress Environment for Local Development
 
 ## Getting Started
 
