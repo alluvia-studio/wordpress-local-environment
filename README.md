@@ -1,6 +1,6 @@
 # Setting Up a Local Containerized WordPress Development Environment
 
-Welcome to our configuration for a WordPress local development environment configuration! This setup utilizes containerization technology, which allows developers to package applications and their dependencies into portable units called containers. With containerization, you can run WordPress projects consistently across different environments without worrying about system differences or configurations.
+Welcome to our configuration for a WordPress local development environment This setup utilizes containerization technology, which allows developers to package applications and their dependencies into portable units called containers. With containerization, you can run WordPress projects consistently across different environments without worrying about system differences or configurations.
 
 ## Why Containerization?
 
